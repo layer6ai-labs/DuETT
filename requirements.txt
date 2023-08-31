@@ -1,0 +1,8 @@
+numpy==1.21.5
+pytorch-lightning==1.6.1
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+x-transformers==1.5.3
+torchtime==0.5.1
+torchmetrics==0.8.0
